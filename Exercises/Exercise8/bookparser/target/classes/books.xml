@@ -1,0 +1,27 @@
+<BookShelf>
+    <Book>
+        <title>Java Fundamentals</title>
+        <publishedYear>2010</publishedYear>
+        <numberOfPages>450</numberOfPages>
+        <authors>
+            <author>John Doe</author>
+            <author>Jane Smith</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Effective Java</title>
+        <publishedYear>2018</publishedYear>
+        <numberOfPages>416</numberOfPages>
+        <authors>
+            <author>Joshua Bloch</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Clean Code</title>
+        <publishedYear>2008</publishedYear>
+        <numberOfPages>464</numberOfPages>
+        <authors>
+            <author>Robert C. Martin</author>
+        </authors>
+    </Book>
+</BookShelf>

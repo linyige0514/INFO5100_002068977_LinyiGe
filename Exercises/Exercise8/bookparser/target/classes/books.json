@@ -1,0 +1,23 @@
+{
+    "BookShelf": [
+      {
+        "title": "Java Fundamentals",
+        "publishedYear": 2010,
+        "numberOfPages": 450,
+        "authors": ["John Doe", "Jane Smith"]
+      },
+      {
+        "title": "Effective Java",
+        "publishedYear": 2018,
+        "numberOfPages": 416,
+        "authors": ["Joshua Bloch"]
+      },
+      {
+        "title": "Clean Code",
+        "publishedYear": 2008,
+        "numberOfPages": 464,
+        "authors": ["Robert C. Martin"]
+      }
+    ]
+  }
+  
