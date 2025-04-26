@@ -1,0 +1,21 @@
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+.text-area {
+    -fx-font-family: "Consolas";
+    -fx-font-size: 12px;
+    -fx-padding: 10;
+}
+
+.combo-box {
+    -fx-font-size: 13px;
+    -fx-pref-width: 100px;
+}
